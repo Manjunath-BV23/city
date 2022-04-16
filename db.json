@@ -1,0 +1,56 @@
+{
+  "countrydata": [
+    {
+      "country": "India",
+      "id": 1
+    },
+    {
+      "country": "Sri Lanka",
+      "id": 2
+    },
+    {
+      "country": "China",
+      "id": 3
+    },
+    {
+      "country": "China",
+      "id": 4
+    },
+    {
+      "country": "India",
+      "id": 5
+    }
+  ],
+  "citydata": [
+    {
+      "country": "India",
+      "city": "Anantapur",
+      "population": "30000000",
+      "id": 1
+    },
+    {
+      "country": "Sri Lanka",
+      "city": "Colombo",
+      "population": "2000000",
+      "id": 2
+    },
+    {
+      "country": "USA",
+      "city": "Chicago",
+      "population": "2300000",
+      "id": 3
+    },
+    {
+      "country": "India",
+      "city": "Bangalore",
+      "population": "3340000",
+      "id": 4
+    },
+    {
+      "country": "India",
+      "city": "Anantapur",
+      "population": "5000000",
+      "id": 5
+    }
+  ]
+}
