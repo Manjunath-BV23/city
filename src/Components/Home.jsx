@@ -10,7 +10,7 @@ export const Home = () => {
     }, [])
 
     const getData = () => {
-        axios.get("http://localhost:8080/citydata").then((res) => {
+        axios.get("https://my-json-server.typicode.com/Manjunath-BV23/city/citydata").then((res) => {
             setCitydata(res.data)
         })
     }

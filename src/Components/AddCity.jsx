@@ -16,7 +16,7 @@ export const AddCity = () => {
     const handleSubmit = (e) => {
         e.preventDefault();
         
-        axios.post("http://localhost:8080/citydata", data).then(() => {
+        axios.post("https://my-json-server.typicode.com/Manjunath-BV23/city/citydata", data).then(() => {
             console.log(data)
         })
     }
